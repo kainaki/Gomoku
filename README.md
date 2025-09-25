@@ -1,8 +1,9 @@
 # Gomoku
 A Gomoku game made on Python
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FPython-3.8%2B-blue.svg)
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FLicense-MIT-green.svg)
+![Static Badge](https://img.shields.io/badge/Python-3.8-blue.svg)
+![Static Badge](https://img.shields.io/badge/License-MIT-green.svg)
+![Static Badge](https://img.shields.io/badge/Version-1.0.0-orange.svg)
 
 A console implementation of the classic Gomoku game (Five in a Row) with an AI opponent, multilingual support and a statistics system.
 
